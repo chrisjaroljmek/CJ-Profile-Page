@@ -1,4 +1,4 @@
-@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat+Alternates:300,400,500,700");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@700&display=swap');
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
